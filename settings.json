@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HelonMc.aternos.me:53041",
+    "ip": "HelonMc.aternos.me",
     "port": 53041,
     "version": "1.21",
     "try-creative": false
