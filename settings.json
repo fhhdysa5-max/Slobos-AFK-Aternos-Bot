@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HelonMc.aternos.me:53041",
+    "ip": "HelonMc.aternos.me",
     "port": 53041,
     "version": "",
     "try-creative": false
@@ -31,11 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "هلا والله بالشباب",
-        "سيرفر أسطوري",
-        "مين يلعب؟"
-      ]
-
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
