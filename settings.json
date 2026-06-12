@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HelonMc.aternos.me",
+    "ip": "HelonMc.aternos.me:53041",
     "port": 53041,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
